@@ -1,16 +1,12 @@
-# finance_management
 
-A new Flutter project.
+# 30 days Challenge 
+## Day 4 Finance Management
 
-## Getting Started
+For Learning Purpose 
 
-This project is a starting point for a Flutter application.
+### Final Screenshot : 
+![flutter_01](https://user-images.githubusercontent.com/59734832/189684567-8ff31de5-a5f0-47a9-bfcc-78046b82018e.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Reference : 
+- [Dribbble](https://dribbble.com/shots/17195869-Finance-Dark-theme-Design/attachments/12296436?mode=media)
